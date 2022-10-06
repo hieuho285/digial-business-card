@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/digial-business-card/static/css/main.2bbf7481.css",
+    "main.js": "/digial-business-card/static/js/main.2a5ee37f.js",
+    "static/media/instagram.png": "/digial-business-card/static/media/instagram.e291349581f33a4f4b3e.png",
+    "static/media/profile.png": "/digial-business-card/static/media/profile.3673a4c64263fdf614e4.png",
+    "index.html": "/digial-business-card/index.html",
+    "main.2bbf7481.css.map": "/digial-business-card/static/css/main.2bbf7481.css.map",
+    "main.2a5ee37f.js.map": "/digial-business-card/static/js/main.2a5ee37f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bbf7481.css",
+    "static/js/main.2a5ee37f.js"
+  ]
+}
